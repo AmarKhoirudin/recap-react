@@ -1,0 +1,26 @@
+.inputlog{
+    margin: 8px;
+    display: flex;
+    
+}
+
+.login{
+    padding-top: 30px;
+    display: flex;
+}
+
+.loginuser {
+    margin : 8px 10px 0px 5px;
+    float: left;
+    color: blue;
+}
+
+.loginuser:hover{
+    cursor: pointer;
+    
+}
+
+.pass{
+    padding: 10px;
+    background: blueviolet;
+}
